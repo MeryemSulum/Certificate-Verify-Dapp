@@ -1,4 +1,4 @@
-# Web3 Certificate Verify Dapp
+# Web3 Certificate Verify DApp
 
 Welcome! Certificate Verify DApp
 This decentralized application (DApp) implements a certificate verification platform using blockchain technology on the Ethereum network. Certificate Verify DApp provides a reliable method to verify the accuracy and validity of certificates.
