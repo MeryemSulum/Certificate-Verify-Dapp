@@ -1,3 +1,64 @@
+# Web3 Certificate Verify Dapp
+
+Welcome! Certificate Verify DApp
+This decentralized application (DApp) implements a certificate verification platform using blockchain technology on the Ethereum network. Certificate Verify DApp provides a reliable method to verify the accuracy and validity of certificates.
+
+# Table of Contents
++ Overview
++ Features
+  + Getting Started
+  + Prerequisites
++ Installation
++ Usage
++ Smart Contracts
++ Testing
++ Frontend
++ Contributing
++ License
+
+# Overview
+
+Certificate owners can easily access important information such as course name, validity status, and date. This platform offers a transparent and trustworthy way to verify certificates, open to anyone who wants to quickly verify the accuracy of their certificates. Secure and verify your certificates with Certificate Verify DApp!
+
+# Features
++ Explore ongoing certificate verifications.
++ Request certificate verification for your documents.
++ Real-time updates: Receive instant notifications for verification status changes.
++ Ownership Transfer: Easily transfer ownership of verified certificates.
++ Ethereum Wallet Integration: Connect your Ethereum wallet (e.g., MetaMask) for seamless verification processes.
+
+# Getting Started
+Follow these steps to set up the project locally and start participating in web3 dapp.
+
+## Prerequisites
+1.Node.js: Ensure Node.js is installed. Download it from [nodejs.org](https://nodejs.org/tr)
+## Installation
+1.Clone the repository:
+
+```  git clone https://github.com/MeryemSulum/Certificate-Verify-Dapp.git ```
+
+2.Navigate to the project directory:
+
+```  cd Certificate-Verify-Dapp ```
+
+3.Install required npm packages:
+
+``` npm install```
+
+## Usage
+
+1.Start the development server:
+
+``` npm start```
+
+2.Open your web browser and navigate to http://localhost:3000 to access the DApp.
+3.Connect your Ethereum wallet (e.g., MetaMask) to the DApp.
+4.Add certificate information and Learn the validition of certificate.
+
+## Smart Contracts
+The smart contracts in this project facilitate the verify process. These contracts are deployed on the Ethereum blockchain.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
