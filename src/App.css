@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Manrope", sans-serif;
+  /* background: #5670FF; */
+  /*background: linear-gradient(90deg, rgba(138,100,235,1) 0%, rgba(100,232,222,1) 100%);*/
+  background: linear-gradient(90deg, #5670FF 0%, rgba(100,232,222,1) 100%);
+}
+.App {
+  text-align: center;
+  background: hsla(0, 0%, 100%, 0.55);
+  backdrop-filter: blur(30px);
+  border: none;
+  border-radius: 20px;
+  box-shadow: 10px 10px 5px rgba(6, 1, 1, 0.106);
+  padding: 40px;
+  margin-top: 10px;
+  margin-right: 300px;
+  margin-left: 300px;
+  padding-bottom: 60px;
+ 
+}
+.header{
+  color:white ;
+  text-align: center;
+  margin-top: 100px;
+}
+button{
+  background-color: #ffbe5f; 
+  border: none;
+  color:white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border-color: #ffbe5f;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+input{
+  background: hsla(0, 0%, 100%, 0.55);
+  backdrop-filter: blur(30px);
+  border: none;
+  border-radius: 8px;
+  box-shadow: 10px 10px 5px rgba(6, 1, 1, 0.106);
+  padding: 10px;
+  width: 250px;
+}
+

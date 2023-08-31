@@ -1,0 +1,53 @@
+
+  .form {
+    text-align: center;
+    background: hsla(0, 0%, 100%, 0.55);
+    backdrop-filter: blur(30px);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgba(6, 1, 1, 0.106);
+    padding: 40px;
+    margin-top: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+    margin-bottom: 300 px;
+    padding-bottom: 6px;
+    justify-content: center;
+    flex-direction: initial;
+  }
+  .formcontrol{
+    margin-left: 30px;
+  }
+  
+  .baslik{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  button{
+    background-color: #ffbe5f; 
+    border: none;
+    color:white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border-color: #ffbe5f;
+  }
+  input{
+    background: hsla(0, 0%, 100%, 0.55);
+    backdrop-filter: blur(30px);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px rgba(6, 1, 1, 0.106);
+    padding: 10px;
+    width: 250px;
+    margin-bottom: 10px;
+  }
+  
+  
