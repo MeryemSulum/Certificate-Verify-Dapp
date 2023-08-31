@@ -57,6 +57,19 @@ Follow these steps to set up the project locally and start participating in web3
 
 ## Smart Contracts
 The smart contracts in this project facilitate the verify process. These contracts are deployed on the Ethereum blockchain.
+ + Certificate_Verify.sol
+
+## Testing
+
+Smart contract tests are located in the test folder. These tests ensure the correct functioning of the smart contract. To run the tests, follow these steps:
+
+1.Open a terminal in the project directory.
+2.Run the following command to execute the tests:
+
+``` npm hardhat test ```
+
+This command will initiate the smart contract tests and display the results in the terminal.
+![test](https://github.com/MeryemSulum/Certificate-Verify-Dapp/assets/118208883/c604a547-16a2-4664-9a10-85ee17136bae)
 
 
 # Getting Started with Create React App
